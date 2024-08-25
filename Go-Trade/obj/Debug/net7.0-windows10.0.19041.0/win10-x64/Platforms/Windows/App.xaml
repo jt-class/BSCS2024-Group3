@@ -1,0 +1,9 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Go_Trade.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Go_Trade.WinUI">
+
+</maui:MauiWinUIApplication>
+
