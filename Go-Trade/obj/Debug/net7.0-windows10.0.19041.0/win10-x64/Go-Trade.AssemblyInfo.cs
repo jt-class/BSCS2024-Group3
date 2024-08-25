@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Go-Trade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b997ee2935ca98ebee27aa9fbab5792ed7c28e60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Go-Trade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Go-Trade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
