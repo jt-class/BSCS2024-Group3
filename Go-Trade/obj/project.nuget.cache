@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hVa7GIWSOYkKgCLfYqh7bWpI0Lpht/n7mLD15ygy2cYKtAYs4Vrij2Cvqytfc0ktizUmab0bZLV7jLos1WXwSg==",
+  "dgSpecHash": "IKAw4mXjh+PL4WsU4I5NeprQuVCcn9SxhjtmA/yQNP0HQ0bq6BiBwOTZ983GhRjat5aT5PWa6DuirbJGsxGs+A==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\GoTrade\\BSCS2024-Group3\\Go-Trade\\Go-Trade.csproj",
+  "projectFilePath": "D:\\Coding\\Go-Trade\\Go-Trade\\Go-Trade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adriel\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\Adriel\\.nuget\\packages\\firebaseauthentication.net\\4.1.0\\firebaseauthentication.net.4.1.0.nupkg.sha512",

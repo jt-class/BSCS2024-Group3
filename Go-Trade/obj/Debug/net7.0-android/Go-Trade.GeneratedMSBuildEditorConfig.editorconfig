@@ -12,39 +12,39 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Go_Trade
-build_property.ProjectDir = D:\Coding\GoTrade\BSCS2024-Group3\Go-Trade\
+build_property.ProjectDir = D:\Coding\Go-Trade\Go-Trade\
 
-[D:/Coding/GoTrade/BSCS2024-Group3/Go-Trade/App.xaml]
+[D:/Coding/Go-Trade/Go-Trade/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Go_Trade.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Coding/GoTrade/BSCS2024-Group3/Go-Trade/AppShell.xaml]
+[D:/Coding/Go-Trade/Go-Trade/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Go_Trade.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Coding/GoTrade/BSCS2024-Group3/Go-Trade/Pages/SignInView.xaml]
+[D:/Coding/Go-Trade/Go-Trade/Pages/SignInView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Go_Trade.Pages.SignInView.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SignInView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SignInView.xaml
 
-[D:/Coding/GoTrade/BSCS2024-Group3/Go-Trade/Pages/SignUpView.xaml]
+[D:/Coding/Go-Trade/Go-Trade/Pages/SignUpView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Go_Trade.Pages.SignUpView.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SignUpView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SignUpView.xaml
 
-[D:/Coding/GoTrade/BSCS2024-Group3/Go-Trade/Resources/Styles/Colors.xaml]
+[D:/Coding/Go-Trade/Go-Trade/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Go_Trade.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Coding/GoTrade/BSCS2024-Group3/Go-Trade/Resources/Styles/Styles.xaml]
+[D:/Coding/Go-Trade/Go-Trade/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Go_Trade.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

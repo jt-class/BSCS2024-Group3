@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\GoTrade\\BSCS2024-Group3\\Go-Trade\\Go-Trade.csproj": {}
+    "D:\\Coding\\Go-Trade\\Go-Trade\\Go-Trade.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\GoTrade\\BSCS2024-Group3\\Go-Trade\\Go-Trade.csproj": {
+    "D:\\Coding\\Go-Trade\\Go-Trade\\Go-Trade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\GoTrade\\BSCS2024-Group3\\Go-Trade\\Go-Trade.csproj",
+        "projectUniqueName": "D:\\Coding\\Go-Trade\\Go-Trade\\Go-Trade.csproj",
         "projectName": "Go-Trade",
-        "projectPath": "D:\\Coding\\GoTrade\\BSCS2024-Group3\\Go-Trade\\Go-Trade.csproj",
+        "projectPath": "D:\\Coding\\Go-Trade\\Go-Trade\\Go-Trade.csproj",
         "packagesPath": "C:\\Users\\Adriel\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\GoTrade\\BSCS2024-Group3\\Go-Trade\\obj\\",
+        "outputPath": "D:\\Coding\\Go-Trade\\Go-Trade\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
