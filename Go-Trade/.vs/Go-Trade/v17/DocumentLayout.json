@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{902A3F8C-D2CD-4EF0-A32B-D23ACCCB29B9}|Go-Trade.csproj|c:\\users\\admin\\desktop\\imp-proj\\go-trade\\go-trade\\pages\\signinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{902A3F8C-D2CD-4EF0-A32B-D23ACCCB29B9}|Go-Trade.csproj|solutionrelative:pages\\signinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902A3F8C-D2CD-4EF0-A32B-D23ACCCB29B9}|Go-Trade.csproj|c:\\users\\admin\\desktop\\imp-proj\\go-trade\\go-trade\\pages\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902A3F8C-D2CD-4EF0-A32B-D23ACCCB29B9}|Go-Trade.csproj|solutionrelative:pages\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902A3F8C-D2CD-4EF0-A32B-D23ACCCB29B9}|Go-Trade.csproj|c:\\users\\admin\\desktop\\imp-proj\\go-trade\\go-trade\\pages\\signupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{902A3F8C-D2CD-4EF0-A32B-D23ACCCB29B9}|Go-Trade.csproj|solutionrelative:pages\\signupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignInView.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\Pages\\SignInView.xaml",
+              "RelativeDocumentMoniker": "Pages\\SignInView.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\Pages\\SignInView.xaml",
+              "RelativeToolTip": "Pages\\SignInView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T04:28:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\Pages\\SignInModel.cs",
+              "RelativeDocumentMoniker": "Pages\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\Pages\\SignInModel.cs",
+              "RelativeToolTip": "Pages\\SignInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:24:01.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAewEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:24:49.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpView.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\Pages\\SignUpView.xaml",
+              "RelativeDocumentMoniker": "Pages\\SignUpView.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\IMP-PROJ\\Go-Trade\\Go-Trade\\Pages\\SignUpView.xaml",
+              "RelativeToolTip": "Pages\\SignUpView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T04:11:26.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
