@@ -1,0 +1,19 @@
+# Ignore build directories
+/bin/
+/obj/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vs/
+*.suo
+*.user
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
