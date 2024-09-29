@@ -22,13 +22,16 @@ namespace Go_Trade.Pages
         private string password;
 
         [ObservableProperty]
-        private string userName;
+        private string confirmPassword;
 
         [ObservableProperty]
         private bool isSigningUp;
 
         [ObservableProperty]
         private string errorMessage;
+
+        
+
 
         [RelayCommand]
         private async Task SignUp()
@@ -37,16 +40,27 @@ namespace Go_Trade.Pages
 
             try
             {
-                if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password) || string.IsNullOrWhiteSpace(userName))
+                if (string.IsNullOrWhiteSpace(email) || 
+                    string.IsNullOrWhiteSpace(password) || 
+                    string.IsNullOrWhiteSpace(confirmPassword))
                 {
                     ErrorMessage = "All fields are required.";
                     return;
                 }
 
+
+                if( password != confirmPassword) 
+                
+                {
+                    ErrorMessage = "Passwords do not match.";
+                    return;
+
+                }
+
                 IsSigningUp = true;
                 ErrorMessage = string.Empty;
 
-                await _client.CreateUserWithEmailAndPasswordAsync(email, password, userName);
+                await _client.CreateUserWithEmailAndPasswordAsync(email, password);
                 await Shell.Current.GoToAsync("//SignIn");
             }
             catch (Exception ex)

@@ -5,6 +5,8 @@
              NavigationPage.HasNavigationBar="False"
              >
     <VerticalStackLayout>
-        
+        <Label 
+            Text="home"
+            />
     </VerticalStackLayout>
 </ContentPage>
