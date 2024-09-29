@@ -16,4 +16,9 @@
         ContentTemplate="{DataTemplate pages:SignUpView}"
         Route="SignUp" />
 
+    <ShellContent
+        
+        ContentTemplate="{DataTemplate pages:HomePageView}"
+        Route="HomePage" />
+
 </Shell>

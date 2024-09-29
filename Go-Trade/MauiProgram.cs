@@ -38,8 +38,8 @@ namespace Go_Trade
             builder.Services.AddSingleton<SignInModel>();
             builder.Services.AddSingleton<SignUpView>();
             builder.Services.AddSingleton<SignUpModel>();
-
-
+            builder.Services.AddSingleton<HomePage>();
+            builder.Services.AddSingleton<HomePageView>();
             return builder.Build();
         }
     }

@@ -19,13 +19,27 @@ namespace Go_Trade.Pages
         private string _email;
         [ObservableProperty]
         private string _password;
-
+        public SignInModel(FirebaseAuthClient client)
+        {
+            _client = client;
+        }
 
         [RelayCommand]
         private async Task SignIn()
         {
-            await _client.SignInWithEmailAndPasswordAsync(Email, Password);
+            try
+            { 
+                await _client.SignInWithEmailAndPasswordAsync(Email, Password);
 
+                
+                await Shell.Current.GoToAsync("//HomePage");
+            }
+            catch (Exception ex)
+            {
+                
+                Console.WriteLine($"Sign-in failed: {ex.Message}");
+                
+            }
 
         }
         [RelayCommand]

@@ -1,1 +1,0 @@
-D:\Coding\GoTrade\BSCS2024-Group3\Go-Trade\Go-Trade.csproj;x64
