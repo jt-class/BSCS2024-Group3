@@ -26,8 +26,8 @@
                              HorizontalOptions="Center" VerticalOptions="Center">
 
             <Image Source="logo.png"
-                   HeightRequest="200"
-                   WidthRequest="200"
+                   HeightRequest="150"
+                   WidthRequest="150"
                    HorizontalOptions="Center" />
 
             <Frame BackgroundColor="#FDCA40"
