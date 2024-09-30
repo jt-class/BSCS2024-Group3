@@ -2,7 +2,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Go_Trade.Pages.SignInView"
              Title="Sign In or Sign-Up"
-             BackgroundColor="Gray">
+             BackgroundColor="#333533">
  
 
     <Grid>
@@ -11,49 +11,42 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!-- Title Label -->
-        <Label
-            Text="Sign In or Sign-Up"
-            FontSize="24"
-            HorizontalOptions="Center"
-            VerticalOptions="Center"
-            Grid.Row="0"
-            Padding="10"/>
-
         <!-- Image -->
         <Image
             Source="rectangle.png"
-            HorizontalOptions="FillAndExpand"
-            Aspect="AspectFit"
+            VerticalOptions="Start"
+            Aspect="AspectFill"
             WidthRequest="400"
-            HeightRequest="300"
-            Grid.Row="1"/>
+            HeightRequest="350"
+            Grid.Row="1"
+            />
 
         <VerticalStackLayout Padding="30,50" Spacing="20"
                              Grid.Row="1"
                              HorizontalOptions="Center" VerticalOptions="Center">
 
             <Image Source="logo.png"
-                   HeightRequest="150"
-                   WidthRequest="150"
+                   HeightRequest="200"
+                   WidthRequest="200"
                    HorizontalOptions="Center" />
 
             <Frame BackgroundColor="#FDCA40"
                    CornerRadius="20"
                    Padding="20"
-                   HeightRequest="450"
+                   HeightRequest="460"
                    WidthRequest="350"
                    HorizontalOptions="Fill"
                    VerticalOptions="Center">
 
                 <VerticalStackLayout Spacing="20" HorizontalOptions="Center">
 
-                    <Label Text="Welcome to GoTrade!"
-                           FontSize="18"
+                    <Label Text="Sign-In"
+                           FontSize="36"
                            TextColor="Black"
                            FontFamily="OpenSansSemibold"
+                           FontAttributes="Bold"
                            HorizontalOptions="Center"
-                           Margin="0,20,0,0" />
+                           Margin="0,20,0,40" />
 
                     <Frame BackgroundColor="White"
                            CornerRadius="10"
@@ -88,19 +81,16 @@
                             BackgroundColor="Black"
                             TextColor="White"
                             CornerRadius="10"
-                            WidthRequest="200"
-                            Margin="0,90,0,0"
+                            WidthRequest="300"
+                            Margin="0,45,0,0"
                             HorizontalOptions="Center" />
 
                     <Button Command="{Binding NavigateToSignUpCommand}"
-                            Text="Sign-Up"
-                            BackgroundColor="#FAFAD2"
-                            TextColor="Black"
-                            BorderColor="Black"
-                            BorderWidth="2"
-                            CornerRadius="10"
-                            WidthRequest="200"
-                            HorizontalOptions="Center" />
+                            Text="Don't have an account? Sign up here"
+                            BackgroundColor="#00000000"
+                            TextColor="Blue"
+                            HorizontalOptions="Center"
+                            />
 
                 </VerticalStackLayout>
 
